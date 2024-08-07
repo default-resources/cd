@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "66b22ad7dd1f4472d2408723_2c21e0e8-8af7-4817-be2e-749e96a7298e",
+  "id": "Page1_QueryModule14",
+  "moduleUUID": "5f93e7fe-0cbc-4b8d-952e-e7d1d8ec26a1",
+  "packageUUID": "da77502c-d8f9-4d8d-97f6-03577acfd38f",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {},
+    "moduleInputs": {},
+    "name": "QueryModule14",
+    "pageId": "Page1",
+    "version": "0.0.6"
+  }
+}
