@@ -11,8 +11,20 @@
       "myFun2": "[]"
     },
     "moduleInputs": {
-      "gjlrotizxu": {},
-      "vifcbegivj": {}
+      "gjlrotizxu": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "gjlrotizxu",
+        "label": "myFun2",
+        "propertyName": "inputs.myFun2"
+      },
+      "vifcbegivj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "vifcbegivj",
+        "label": "myFun1",
+        "propertyName": "inputs.myFun1"
+      }
     },
     "name": "JSModule14",
     "pageId": "Page1",
