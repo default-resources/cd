@@ -8,20 +8,16 @@
   "bottomRow": 69,
   "boxShadow": "none",
   "defaultDialCode": "+1",
-  "defaultText": "{{something.myFun1.data}}",
+  "defaultText": "",
   "dynamicBindingPathList": [
     {
       "key": "accentColor"
     },
     {
       "key": "borderRadius"
-    },
-    {
-      "key": "defaultText"
     }
   ],
   "dynamicHeight": "FIXED",
-  "dynamicTriggerPathList": [],
   "iconAlign": "left",
   "isDisabled": false,
   "isLoading": false,
