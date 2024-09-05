@@ -10,11 +10,28 @@
   "applicationVersion": 2,
   "collapseInvisibleWidgets": true,
   "color": "#ECECEC",
+  "embedSetting": {
+    "height": "720px",
+    "showNavigationBar": true,
+    "width": "1024px"
+  },
   "evaluationVersion": 2,
   "pages": [
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
+    },
+    {
+      "id": "Page3",
+      "isDefault": false
+    },
+    {
+      "id": "Page4",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
