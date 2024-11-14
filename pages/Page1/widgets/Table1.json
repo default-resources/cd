@@ -511,7 +511,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 55,
   "searchKey": "",
-  "tableData": "{{userquery.data}}",
+  "tableData": "{{userquery1.data}}",
   "textSize": "0.875rem",
   "topRow": 22,
   "totalRecordsCount": 0,
